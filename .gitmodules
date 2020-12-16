@@ -1,3 +1,6 @@
 [submodule "tools/HDMSpectra"]
 	path = tools/HDMSpectra
 	url = https://github.com/nickrodd/HDMSpectra.git
+[submodule "tools/Hazma"]
+	path = tools/Hazma
+	url = https://github.com/LoganAMorrison/Hazma.git
