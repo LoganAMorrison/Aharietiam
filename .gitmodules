@@ -1,0 +1,3 @@
+[submodule "tools/HDMSpectra"]
+	path = tools/HDMSpectra
+	url = https://github.com/nickrodd/HDMSpectra.git
